@@ -27,7 +27,6 @@
 ![homeassistant](https://img.shields.io/badge/homeassistant%20-%2341BDF5.svg?&style=for-the-badge&logo=home%20assistant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![openstreetmap](https://img.shields.io/badge/OSM-%237EBC6F.svg?&style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![raspberry pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
